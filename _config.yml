@@ -1,1 +1,25 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-time-machine
+source: .
+baseurl: "/english"
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               <a hef="https://www.iledefrance.fr/"><img src="https://i0.wp.com/upload.wikimedia.org/wikipedia/fr/thumb/9/9e/R%C3%A9gion_%C3%8Ele-de-France_(logo_2005).svg/1280px-R%C3%A9gion_%C3%8Ele-de-France_(logo_2005).svg.png?w=180&ssl=1" width="75px"/></a><img src="https://raw.githubusercontent.com/humanitesnumeriques/english/master/assets/logo.png"/>Science of the text and new knowledge
+tagline:             'French Digital Humanities Network'
+description:         'French Digital Humanities'
+url:                 https://humanitesnumeriques.github.io/caracteres/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              DIM SDTCN
+  url:               https://twitter.com/xsalvador
+  email:            
+
+# Custom vars
+version:             1.0.0
