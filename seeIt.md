@@ -14,9 +14,6 @@ title: seeInAction
                   <code>projetGordes.fr:&nbsp;<a shape="rect" href="http://www.projetgordes.fr">Clic</a> </code>
                 </li>
                 <li>
-                  <code>managerCulturel:&nbsp;<a shape="rect" href="http://www.managerculturel.fr">Clic</a> </code>
-                </li>
-                <li>
                   <code>Footopedia:&nbsp;<a shape="rect" href="http://www.footopedia.fr">Clic</a> </code>
                 </li>
                 <li>
