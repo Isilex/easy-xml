@@ -5,7 +5,7 @@ title: Links
 
 <ul class="tabUserAdmin">
                 <li>
-                  <strong> <code>See Isilex in action :</code> </strong>
+                  <strong>See Isilex in action :</strong>
                 </li>
                 <li>
                   <code>Digitens:&nbsp;<a shape="rect" href="http://www.digitens.fr">Clic</a> </code>
@@ -21,6 +21,9 @@ title: Links
                 </li>
                 <li>
                   <code>Bible Historiale:<a shape="rect" href="http://www.biblehistoriale.fr">Clic</a> </code>
+                </li>
+                <li>
+                  <code>Collège de France Dicat Dictionnary:<a shape="rect" href="http://dicat-dev.huma-num.fr/dicat/presentation">Clic</a> </code>
                 </li>
                 <li>
                   <code>---------------------</code>
