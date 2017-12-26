@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: seeInAction
 ---
 
 <ul class="tabUserAdmin">
