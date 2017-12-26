@@ -3,38 +3,44 @@ layout: page
 title: Links
 ---
 
-<h2>Institutions</h2>
-<ul>
-<li>Sorbonne Université</li>
-<li>Université Sorbonne Paris Cité</li>
-<li>Université de Cergy-Pontoise</li>
-<li>Université de Sorbonne Nouvelle - Paris 3</li>
-<li>Université de Lille</li>
-<li>Université Paris Diderot</li>
-<li>Institut Supérieur des Sciences de la Communication</li>
-<li>Centre d'étude de la langue et des littératures françaises</li>
-<li>Observatoire de la vie littéraire (OBVIL)</li>
-<li>Agents Cognitifs et Apprentissage Symbolique Automatique du laboratoire d'informatique de Paris 6 (LIP6)</li>
-<li>Le laboratoire Interdisciplinaire des Energies de Demain (LIED)</li>
-<li>Institut de Linguistique Française</li>
-<li>Analyse littéraire et Histoire de la langue</li>
-<li>Groupe d'études d'Histoire de la Langue française</li>
-<li>Centre de Recherche sur l'Action Locale (CERAL)</li>
-<li>Dynamiques patrimoniales et culturelles (DYPAC)</li>
-<li>Laboratoire Lexiques, Dictionnaires, Informatique (LDI)</li>
-<li>Union des patrimoines numérisés</li>
-<li>Groupement d'intérêt scientifique LudoCorpus</li>
-<li>Groupement d'intérêt scientifique Digitens</li>
-<li>Archives Zoliennes</li>
-<li>Projet Phoebus</li>
-<li>Projet E-Balzac</li>
-<li>Projet Éternités numériques (Eneid)</li>
-</ul>
-
-<h2>Contacts</h2>
-<ul>
-<li>Basex (Gmbh)<a href="http://www.basex.org"><img src="http://basexgmbh.de/wp-content/uploads/2013/04/BaseX-300x252.png" alt="" width="90px" /></a></li>
-<li>Editions des Saints Pères</li>
-<li>Le Monde Moderne</li>
-<li>I-Def</li>
-</ul>
+<ul class="tabUserAdmin">
+                <li>
+                  <strong> <code>See Isilex in action :</code> </strong>
+                </li>
+                <li>
+                  <code>Digitens:&nbsp;<a shape="rect" href="http://www.digitens.fr">Clic</a> </code>
+                </li>
+                <li>
+                  <code>projetGordes.fr:&nbsp;<a shape="rect" href="http://www.projetgordes.fr">Clic</a> </code>
+                </li>
+                <li>
+                  <code>managerCulturel:&nbsp;<a shape="rect" href="http://www.managerculturel.fr">Clic</a> </code>
+                </li>
+                <li>
+                  <code>Footopedia:&nbsp;<a shape="rect" href="http://www.footopedia.fr">Clic</a> </code>
+                </li>
+                <li>
+                  <code>Bible Historiale:<a shape="rect" href="http://www.biblehistoriale.fr">Clic</a> </code>
+                </li>
+                <li>
+                  <code>---------------------</code>
+                </li>
+                <li> <p>
+                    <code>Isilex&nbsp;<a shape="rect" href="http://lanyrd.com/2016/basex/sdxmzm/" target="clickIframePub">aux BasexDays 2015</a>.</code>
+                    <code></code>
+                    <code> </code>
+                  </p> </li>
+                <li>
+                  <code>Basex:&nbsp;<a shape="rect" href="http://www.basex.org">Here</a> </code>
+                </li>
+                <li>
+                  <code>TagClouds:&nbsp;<a shape="rect" href="http://www.goat1000.com/tagcanvas.php">Here</a> </code>
+                </li>
+                <li>
+                  <code>CodeMirror:&nbsp;<a shape="rect" href="http://codemirror.net/">Here</a> </code>
+                </li>
+                <li>
+                  <code>UnoConv:&nbsp;<a shape="rect" href="https://github.com/dagwieers/unoconv">Here</a> </code>
+                </li>
+                <li></li>
+              </ul>
