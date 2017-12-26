@@ -1,6 +1,6 @@
 theme: jekyll-theme-time-machine
 source: .
-baseurl: "/english"
+baseurl: "/easy-xml"
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -8,10 +8,10 @@ permalink:           pretty
 
 
 # Setup
-title:               <a hef="https://www.iledefrance.fr/"><img src="https://i0.wp.com/upload.wikimedia.org/wikipedia/fr/thumb/9/9e/R%C3%A9gion_%C3%8Ele-de-France_(logo_2005).svg/1280px-R%C3%A9gion_%C3%8Ele-de-France_(logo_2005).svg.png?w=180&ssl=1" width="75px"/></a><img src="https://raw.githubusercontent.com/humanitesnumeriques/english/master/assets/logo.png"/>Science of the text and new knowledge
+title:               Isilex
 tagline:             'French Digital Humanities Network'
 description:         'French Digital Humanities'
-url:                 https://humanitesnumeriques.github.io/caracteres/
+url:                 https://isilex.github.io/easy-xml/
 baseurl:             ''
 paginate:            5
 
