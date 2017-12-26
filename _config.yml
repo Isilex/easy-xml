@@ -9,8 +9,8 @@ permalink:           pretty
 
 # Setup
 title:               Isilex
-tagline:             'French Digital Humanities Network'
-description:         'French Digital Humanities'
+tagline:             'Easy Collaborative XML Data Driver'
+description:         'Isilex is a CMS based on Basex (http://www.basex.org)'
 url:                 https://isilex.github.io/easy-xml/
 baseurl: "/easy-xml"
 paginate:            5
