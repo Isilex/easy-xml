@@ -24,6 +24,14 @@
       {% endif %}
     {% endfor %}
     
+    <ul>
+    {% for post in site.posts %}
+    <li>
+     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"  href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+	</ul>
+    
 	</div>
    
   </nav>
