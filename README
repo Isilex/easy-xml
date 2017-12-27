@@ -1,1 +1,11 @@
-see online documentation at <a href="https://isilex.github.io/easy-xml">https://isilex.github.io/easy-xml</a>
+see online documentation at https://isilex.github.io/easy-xml
+
+IsilexLite v1.2.2 (Basex 8.6.4 compliant) is a Web Server, a CMS (Content Management System) and an XML Database Driver System linked to BaseX available under License OpenGPL v.3. It's also a Private Social Network Organizer producing high-quality XML data file. This WebSite (Isilex.fr) is an Instance of Isilex, so you can see what you could do.
+
+Unlike a product like WordPress, IsilexLite can host your Web site directly onto your own machine in your Business place or your laboratory, or even at home, and lets you directly make your Work reachable thru the web. It allows you to link Multimedia content to your XML files. The Web Server for IsilexLite is a Java HTTP server and container. It is a web server based around the user conception called REST, invented by Roy Field in the 1990sw, and which allows one to associate a programming algorithm to a URL.
+
+When you access IsilexLite, it is ‘system ready’ on whatever platform you are using.
+
+You simply have to start it up. You will see a small ruler icon appear in the system tray adjacent to the time icon. Click on ‘open Isilex’ and it is then up and running. You can begin to work with it straight away, i.e. you can start creating files, annotations, and a corpus.
+
+Since it is programmed in Java, BaseX and its wrapper Web IsilexLite, work on any platform and do not need to be installed.
