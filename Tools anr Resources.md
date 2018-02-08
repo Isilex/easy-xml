@@ -22,7 +22,7 @@ title: Tools and Resources
  <ul>
   <li><a href="http://udpn.fr/spip.php?rubrique3">Digitized Cultural Heritage (UDPN)</a></li>
   <li><a href="https://jdmdh.episciences.org/browse/latest">Journal of Data Mining</a></li>
-  <li><a href="http://lexichamp.isilex.fr/">Lexichamps (Semantic networks Detection)</a></li>
+  <li><a href="http://www.digitens.fr/lexichamp/">Lexichamps (Semantic networks Detection)</a></li>
  </ul>
 </p>
 
