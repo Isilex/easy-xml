@@ -12,7 +12,7 @@ title: Tools and Resources
   <li>Digitens:&nbsp;<a shape="rect" href="http://www.digitens.fr">Clic</a></li>
   <li>projetGordes.fr:&nbsp;<a shape="rect" href="http://www.projetgordes.fr">Clic</a></li>
   <li>Footopedia:&nbsp;<a shape="rect" href="http://www.footopedia.fr">Clic</a></li>
-	<li>Collège de France Dicat Dictionnary:<a shape="rect" href="http://dicat-dev.huma-num.fr/dicat/presentation">Clic</a></li>
+	<li>Collège de France Dicat Dictionnary:<a shape="rect" href="http://dicat.huma-num.fr/dicat/presentation">Clic</a></li>
     <li><a href="http://www.projetprada.fr/versification">Automatic French Syllabation</a></li>
  </ul>
 </p>
