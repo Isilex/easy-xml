@@ -7,6 +7,7 @@ title: Tools and Resources
 <p>
   <h2>Isilex Projects onLine</h2>
  <ul>
+  <li>DFSyMe:Détection de faisceaux de synonymie et de méronymie: <a shape="rect" href="http://www.dfsm.fr">Clic</a></li>
   <li><a href="http://www.biblehistoriale.fr">Fondation Mellon Bible historiale project</a></li>
   <li><a href="http://www.projetgordes.fr/">Gordes Archives</a></li>
   <li>Digitens:&nbsp;<a shape="rect" href="http://www.digitens.fr">Clic</a></li>
